@@ -10,7 +10,7 @@ https://tech-blog-mvc-james.herokuapp.com/
 
 ### Application Screenshot
 
-![](images/tech-blog-mvc-james.png)
+![images](images/tech-blog-mvc-james.PNG)
   
 ### User Story
 

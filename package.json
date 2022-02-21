@@ -16,9 +16,9 @@
   "author": "James Chukwu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/mvc-tech-blog/issues"
+    "url": "https://github.com/Okingiboy/tech-blog-mvc-james/issues"
   },
-  "homepage": "https://github.com/priyaravi23/mvc-tech-blog#readme",
+  "homepage": "https://github.com/Okingiboy/tech-blog-mvc-james#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
