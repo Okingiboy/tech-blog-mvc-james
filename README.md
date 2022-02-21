@@ -6,6 +6,8 @@
 
 ### Application Deployment
 
+https://git.heroku.com/tech-blog-mvc-james.git
+
 https://tech-blog-mvc-james.herokuapp.com/
 
 ### Application Screenshot
