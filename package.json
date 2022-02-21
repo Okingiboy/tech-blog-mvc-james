@@ -1,7 +1,7 @@
 {
-  "name": "mvc-tech-blog",
+  "name": "tech-blog-mvc-james",
   "version": "1.0.0",
-  "description": "Model-View-Controller (MVC) Tech Blog",
+  "description": "Model-View-Controller (MVC) Challenge: Tech Blog",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/mvc-tech-blog.git"
+    "url": "https://github.com/Okingiboy/tech-blog-mvc-james.git"
   },
-  "author": "Priya Ravi",
+  "author": "James Chukwu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/priyaravi23/mvc-tech-blog/issues"
